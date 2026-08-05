@@ -3,3 +3,5 @@ n = [4]
 
 f = np.std(n)
 print(f)
+
+
