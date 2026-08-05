@@ -17,6 +17,8 @@ story  = f"""
 One day , the {adjective} {animal} appeared in {place}.
 Everyone was scared untill the brave hero, {hero_name}, arrived.
 
+
+
 using the magical number {magic_number}, {hero_name} defeated the {animal} and saved {place}.
  
 from that day on, the people of {place}
