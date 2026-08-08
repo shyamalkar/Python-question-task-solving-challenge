@@ -5,3 +5,5 @@ f = np.std(n)
 print(f)
 
 
+
+
