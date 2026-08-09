@@ -7,3 +7,5 @@ result = (word +  " ") * number
 print(result.strip())
 
 
+
+
