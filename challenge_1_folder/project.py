@@ -13,6 +13,7 @@ magic_number = fav_number * 3
 
 # Draft and output the story 
 
+
 story  = f"""
 One day , the {adjective} {animal} appeared in {place}. 
 Everyone was scared untill the brave hero, {hero_name}, arrived.
