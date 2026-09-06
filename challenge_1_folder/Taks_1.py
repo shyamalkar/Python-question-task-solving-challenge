@@ -21,4 +21,3 @@ float() converts into a decimal number.
 radius ** 2 calculates the square of the radius 
 the area is computed using pi * r sqare
 """
-
